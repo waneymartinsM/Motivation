@@ -16,11 +16,13 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         setContentView(binding.root)
 
+        supportActionBar?.hide()
+
         binding.buttonNewPhrase.setOnClickListener(this)
     }
 
     override fun onClick(view: View) {
-        if(view.id == R.id.button_new_phrase){
+        if (view.id == R.id.button_new_phrase) {
             var s = ""
 
         }
