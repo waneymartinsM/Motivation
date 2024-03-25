@@ -2,14 +2,21 @@
 
 Motivation é um aplicativo para Android que exibe frases motivacionais para inspirar os usuários. Ele foi criado no curso de Desenvolvimento de Aplicativos Android usando Kotlin. Durante o curso, aprendi a estilização das activity e eventos de click, navegação entre activities, sharedPreferences, constantes, cliques no menu de frases, exibição de frases e internacionalização.
 
-## Instalação
+## Demonstração
+
+<p>
+<img src="screenshots/Screenshot_01.png" width="50%">
+<img src="screenshots/Screenshot_02.png" width="50%">
+</p>
+
+# Instalação
 
 - Clone este repositório.
 - Abra o projeto no Android Studio.
 - Conecte um dispositivo Android ao computador ou configure um emulador no Android Studio.
 - Clique no botão "Run" no Android Studio para instalar e executar o aplicativo no dispositivo ou emulador.
     
-## Como usar
+# Como usar
 
 Para usar o aplicativo Motivation, siga as etapas abaixo:
 
@@ -20,7 +27,7 @@ Para usar o aplicativo Motivation, siga as etapas abaixo:
 - Toque em "Configurações" no menu para alterar o idioma do aplicativo ou outras configurações.
 
 
-## Contribuição
+# Contribuição
 
 Se você quiser contribuir com o projeto Motivation, siga as etapas abaixo:
 
@@ -29,11 +36,11 @@ Se você quiser contribuir com o projeto Motivation, siga as etapas abaixo:
 - Envie uma solicitação de recebimento para o repositório original, explicando as alterações que você fez.
 
 
-## Licença
+# Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
 
-## Créditos
+# Créditos
 
 Este projeto foi criado como parte do curso de Desenvolvimento de Aplicativos Android usando Kotlin, da Udemy. Agradeço ao instrutor e equipe da Udemy por fornecer os recursos e conhecimentos necessários para criar este aplicativo.
