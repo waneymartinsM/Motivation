@@ -5,8 +5,8 @@ Motivation é um aplicativo para Android que exibe frases motivacionais para ins
 ## Demonstração
 
 <p>
-<img src="screenshots/Screenshot_01.png" width="50%">
-<img src="screenshots/Screenshot_02.png" width="50%">
+<img src="screenshots/Screenshot_01.png" width="40%">
+<img src="screenshots/Screenshot_02.png" width="40%">
 </p>
 
 # Instalação
